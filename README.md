@@ -31,18 +31,33 @@
   
 </div>
 
+## CodeChef Stats
+
+![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/card?username=your-username)
 
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/harun00)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-brightgreen)](https://codeforces.com/profile/ev__an)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-orange)](https://www.codechef.com/users/ev_an)
 
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; background-color: #2d2d2d; padding: 20px; border-radius: 10px;">
+
+  <a href="https://www.linkedin.com/in/harun00">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Profile">
+  </a>
+
+  <a href="https://codeforces.com/profile/ev__an">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-brightgreen" alt="Codeforces Profile">
+  </a>
+
+  <a href="https://www.codechef.com/users/ev_an">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-orange" alt="CodeChef Profile">
+  </a>
+  
+</div>
+
 
 
 
