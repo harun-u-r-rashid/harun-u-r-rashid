@@ -9,7 +9,7 @@
 
 <div align="center">
  
-- 🔭 I’m currently working on **Learning Academy**
+- 🔭 I’m currently working on **'Learning Academy'** an online based platform
 
 - 🌱 I’m currently learning **react JS, Advance Django Rest Framework & AWS**
 
