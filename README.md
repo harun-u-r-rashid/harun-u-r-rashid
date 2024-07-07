@@ -22,11 +22,11 @@
 <div align="center" style="display: flex; justify-content: center; background-color: #2d2d2d; padding: 20px; border-radius: 10px;">
 
   <div style="margin: 10px;">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=your-codeforces-username" alt="Codeforces Stats">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ev__an" alt="Codeforces Stats">
   </div>
 
   <div style="margin: 10px;">
-    <img src="https://codechef-readme-stats.vercel.app/api/card?username=your-codechef-username" alt="CodeChef Stats">
+    <img src="https://codechef-readme-stats.vercel.app/api/card?username=ev_an" alt="CodeChef Stats">
   </div>
   
 </div>
