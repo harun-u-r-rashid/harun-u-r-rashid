@@ -13,19 +13,38 @@
 
 - 📄 Know about my experiences [https://shorturl.at/2HjBr](https://shorturl.at/2HjBr)
 
+
+
+
+
+## Competitive Programming Stats
+
+<div align="center" style="display: flex; justify-content: center; background-color: #2d2d2d; padding: 20px; border-radius: 10px;">
+
+  <div style="margin: 10px;">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=your-codeforces-username" alt="Codeforces Stats">
+  </div>
+
+  <div style="margin: 10px;">
+    <img src="https://codechef-readme-stats.vercel.app/api/card?username=your-codechef-username" alt="CodeChef Stats">
+  </div>
+  
+</div>
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 ## Contact
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/harun00)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-brightgreen)](https://codeforces.com/profile/ev__an)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-orange)](https://www.codechef.com/users/ev_an)
 
 </p>
 
-## Codeforces Stats
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ev__an)
 
 
 <h3 align="left">Languages and Tools:</h3>
