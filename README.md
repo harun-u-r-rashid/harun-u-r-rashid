@@ -22,9 +22,7 @@
 <div align="center" style="display: flex; justify-content: center; background-color: #2d2d2d; padding: 20px; border-radius: 10px;">
 
   <div style="margin: 10px;">
-    <a href="https://codeforces.com/profile/ev__an">
-      <img src="https://img.shields.io/badge/Codeforces-Profile-brightgreen" alt="Codeforces Profile">
-    </a>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ev__an" alt="Codeforces Stats">
   </div>
 
   <div style="margin: 10px;">
@@ -36,9 +34,7 @@
 </div>
 
 
-## CodeChef Stats
 
-![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/card?username=your-username)
 
 
 
