@@ -39,18 +39,5 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cplusplus,python" />
- <br>
-    <img src="https://skillicons.dev/icons?i=django,djangorestframework" />
-     <br>
-    <img src="https://skillicons.dev/icons?i=react,javascript,html5,css3,tailwindcss" />
-     <br>
-            <img src="https://skillicons.dev/icons?i=vscode,codeblocks" />
 
-</div>
-
-<br/>
 
