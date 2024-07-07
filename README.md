@@ -38,3 +38,10 @@
 </div>
 
  <hr/>
+
+ <h2 align="center">⚒️ Skills ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cplusplus,python,django,python,mysql,javascript,react,html5,css3" />
+</div>
+
