@@ -15,10 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/harunevaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harunevaan" height="30" width="40" /></a>
-<a href="https://instagram.com/harunnee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harunnee" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ev_an" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ev_an" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ev__an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ev__an" height="30" width="40" /></a>
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/harun00)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-brightgreen)](https://codeforces.com/profile/ev__an)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-orange)](https://www.codechef.com/users/ev_an)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
