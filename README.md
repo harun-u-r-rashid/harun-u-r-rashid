@@ -78,7 +78,6 @@
 <br/>
 <hr/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Codeforces-HarunurRashid-%23FF6347?style=for-the-badge&logo=codeforces" />
-</p>
+## Codeforces Stats
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?ev__an)
 
