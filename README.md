@@ -24,20 +24,7 @@
   <div style="margin: 10px;">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ev__an" alt="Codeforces Stats">
   </div>
-
-  <div style="margin: 10px;">
-    <a href="https://www.codechef.com/users/ev_an">
-      <img src="https://img.shields.io/badge/CodeChef-Profile-orange" alt="CodeChef Profile">
-    </a>
-  </div>
-  
 </div>
-
-
-
-
-
-
 
 
 
