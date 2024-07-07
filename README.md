@@ -82,7 +82,6 @@
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ev__an)
 
 
-[![Pinned](https://img.shields.io/badge/example--repo-blue?style=for-the-badge)](https://github.com/harun-u-r-rashid/Men-s-Store)
 
 
 
